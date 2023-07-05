@@ -23,8 +23,8 @@ const ProtfiloMy = () => {
         }}>
             <div>
                 
-            <div className="pt-16">
-                        <h1 className="text-center font-bold text-5xl bg-gradient-to-r from-indigo-500 via-purple-500 text-transparent bg-clip-text  to-pink-500">Contact Me</h1>
+            <div className="pt-16" data-aos="zoom-in">
+                        <h1 className="text-center font-bold text-5xl bg-gradient-to-r from-indigo-500 via-purple-500 text-transparent bg-clip-text  to-pink-500">Portfolios</h1>
                     </div>
             <div className="grid md:grid-cols-2 gap-10 mb-16 justify-center items-center mt-16">
             {

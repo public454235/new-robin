@@ -10,7 +10,8 @@ const Portfolio = ({protfilo}) => {
     const {detail, image, name, live, github } = protfilo
 
     return (           
-                    <div className="card h-96 w-96 bg-base-100 shadow-xl col">
+                    <div className="card h-96 w-96 bg-base-100 shadow-xl col" data-aos="fade-up"
+                    data-aos-duration="3000">
                             <figure><img src={image} alt="Shoes" /></figure>
                             <div className="card-body flex flex-col justify-center items-center">
                                 <h1 className="font-bold">{name}</h1>

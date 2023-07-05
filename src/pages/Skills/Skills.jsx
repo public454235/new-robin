@@ -15,13 +15,14 @@ const Skills = () => {
             <div>
 
                 <div>
-                    <div className="pt-16">
+                    <div className="pt-16" data-aos="zoom-in-down">
                         <h1 className="text-center font-bold text-5xl bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 text-transparent bg-clip-text  ">My Skills</h1>
                     </div>
 
 
                     <div className="">
-                        <div className=" grid md:grid-cols-3 gap-10 mt-10 mb-16 justify-center items-center">
+                        <div className=" grid md:grid-cols-3 gap-10 mt-10 mb-16 justify-center items-center" data-aos="fade-up"
+                            data-aos-duration="3000">
                             <div className="card w-40 border-b-2 border-0 border-red-500 shadow-xl flex flex-col justify-center items-center p-4">
                                 <FaHtml5 size={50} className="text-red-500"></FaHtml5>
                                 <h4 className="card-title font-normal text-base">HTML 5</h4>
@@ -80,7 +81,7 @@ const Skills = () => {
 
                     </div>
 
-                   
+
 
 
                 </div>

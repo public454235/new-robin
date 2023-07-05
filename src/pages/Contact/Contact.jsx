@@ -27,13 +27,13 @@ const Contact = () => {
         }}>
             <div>
                 <div className="min-h-screen">
-                    <div className="pt-16 pb-4">
+                    <div className="pt-16 pb-4" data-aos="zoom-in">
                         <h1 className="text-center font-bold text-5xl bg-gradient-to-r from-indigo-500 via-purple-500 text-transparent bg-clip-text  to-pink-500">Contact Me</h1>
                     </div>
 
                     <div className="hero min-h-screen ">
                         <div className="hero-content flex-col gap-40 lg:flex-row">
-                            <div className="lg:text-left">
+                            <div className="lg:text-left" data-aos="fade-right">
                                 <div className="flex flex-row justify-center items-center gap-4">
                                     <div className="text-red-500 p-3 rounded-full  border-red-500 border focus:outline-none ">
                                         <FaPhoneAlt size={20} className=""></FaPhoneAlt>
@@ -67,7 +67,7 @@ const Contact = () => {
                                     <Link to='https://github.com/public454235'><FaGithub className="text-red-500" size={40}></FaGithub></Link>
                                 </div>
                             </div>
-                            <div className="card flex-shrink-0 w-full max-w-sm shadow-2xl ">
+                            <div className="card flex-shrink-0 w-full max-w-sm shadow-2xl " data-aos="fade-left">
                                 <div className="card-body">
                                     <h1 className="text-3xl text-center font-bold bg-gradient-to-r from-indigo-500 via-purple-500 text-transparent bg-clip-text  to-pink-500">Get in Touch</h1>
                                     
