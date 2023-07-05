@@ -3,9 +3,8 @@ import image from '../../../assets/Robin.png'
 import resume from '../../../assets/Resume Format.pdf'
 import { FaDownload } from 'react-icons/fa';
 import { Typewriter } from 'react-simple-typewriter'
-
-
 const Home = () => {
+    
     return (
         <div className="hero min-h-screen" style={{
             width: 'full',
@@ -13,7 +12,8 @@ const Home = () => {
             backgroundSize: 'caver',
             backgroundImage: 'url("https://i.ibb.co/HTd8gtW/bg.png")'
         }}>
-            <div>
+            
+            <div >
 
                 <div>
                     <a href={resume} target='_blank' download="Robin Download Resume PDF File">
@@ -38,7 +38,7 @@ const Home = () => {
                                     typeSpeed={70}
                                     deleteSpeed={50}
                                     delaySpeed={1000}
-                                   
+
                                 />
                             </span></h2>
 
