@@ -4,7 +4,7 @@ import resume from '../../../assets/Resume Format.pdf'
 
 const About = () => {
     return (
-        <div style={{
+        <div  style={{
             width: 'full',
             height: 'full',
             backgroundSize: 'caver',
@@ -38,13 +38,13 @@ const About = () => {
                             </span> Md Robin Mia</h4>
                         </div>
 
-                        <div className='lg:ml-8 sm:ml-60 mt-8 border px-4 py-2' data-aos="fade-left">
+                        <div className='lg:ml-8 sm:ml-60 mt-8 border px-4 py-2' >
                             <h1 className=" font-bold text-6xl bg-gradient-to-r from-purple-500 via-pink-500  to-indigo-500 text-transparent bg-clip-text">10+</h1>
                             <p className="pt-4">COMPLETED
                                 PROJECTS</p>
                         </div>
 
-                        <div className='lg:ml-8 sm:ml-60 mt-8 border px-4 py-2' data-aos="fade-left">
+                        <div className='lg:ml-8 sm:ml-60 mt-8 border px-4 py-2' >
                             <h1 className=" font-bold text-6xl bg-gradient-to-r from-purple-500 via-pink-500  to-indigo-500 text-transparent bg-clip-text">30+</h1>
                             <p className="pt-4">PROBLEM
                                 SOLVED</p>

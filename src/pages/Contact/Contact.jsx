@@ -19,14 +19,14 @@ const Contact = () => {
             e.target.reset()
     };
     return (
-        <div style={{
+        <div className="hero min-h-screen" style={{
             width: 'full',
             height: 'full',
             backgroundSize: 'caver',
             backgroundImage: 'url("https://i.ibb.co/k1B0vYL/bg-about.png")'
         }}>
             <div>
-                <div className="min-h-screen">
+                <div>
                     <div className="pt-16 pb-4" data-aos="zoom-in">
                         <h1 className="text-center font-bold text-5xl bg-gradient-to-r from-indigo-500 via-purple-500 text-transparent bg-clip-text  to-pink-500">Contact Me</h1>
                     </div>
