@@ -1,0 +1,31 @@
+[
+    {
+            "image": "https://i.ibb.co/9347SDs/Screenshot-37.png",
+            "name": "Yoga meditation School",
+            "live": "https://meditation-1e818.web.app/",
+            "github": "https://github.com/public454235/yoga-meditation-client",
+            "detail": "React Router, JavaScript, Tailwind CSS, Node.js, ExpressJs, MongoDB, Firebase, Stripe.js.",
+            "category": "Aerial_yoga",
+            "available": 14
+        },
+    {
+            "image": "https://i.ibb.co/Fq9mc0N/Screenshot-39.png",
+            "name": "Chef Delivery",
+            "live": "https://client-assignment10.web.app/",
+            "github": "https://github.com/public454235/Dolls-client",
+            "detail": "React Router, JavaScript, Tailwind CSS, Node.js, ExpressJs, MongoDB, Firebase, Stripe.js.",
+            "category": "Bikram_yoga",
+            "available": 10
+        },
+    {
+            "image": "https://i.ibb.co/x60GyQR/Screenshot-310.png",
+            "name": "Dolls",
+            "live": "https://dolls-client-eb83e.web.app/",
+            "github": "https://github.com/public454235/Dolls-client",
+            "detail": "React Router, JavaScript, Bootstrap, Node.js, ExpressJs, MongoDB, Firebase, Stripe.js.",
+            "category": "Iyengar_yoga",
+            "available": 15
+        }
+    
+          
+    ]
