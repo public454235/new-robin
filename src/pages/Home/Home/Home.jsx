@@ -27,7 +27,7 @@ const Home = () => {
                             <h1 className="text-6xl pb-6 font-bold bg-gradient-to-r from-purple-500 via-pink-500  to-indigo-500 text-transparent bg-clip-text">MD: ROBIN MIA</h1>
                             <h2 className="text-4xl font-bold">Font-End React Developer</h2>
 
-                            <p className="py-6">Self-taught programmer with proficiency in MERN stack, solid understanding of JavaScript, HTML and CSS. Committed to continuous learning and staying updated with industry trends. Skilled in creating responsive user interfaces and building RESTful APIs.</p>
+                            <p className="py-6">I am a young professional with a core interest in Font-End Developer and React., solid understanding of JavaScript, HTML and CSS. Committed to continuous learning and staying updated with industry trends. Skilled in creating responsive user interfaces and building RESTful APIs.</p>
                             <Link to='about'>
                                 <button className=" border-2 rounded-full px-7 py-3 border-red-500 bg-gradient-to-r from-indigo-500 via-purple-500 text-lg text-transparent bg-clip-text  to-pink-500 font-bold">More About Me</button>
                             </Link>
